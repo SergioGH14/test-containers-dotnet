@@ -1,0 +1,5 @@
+/Test/bin/
+/Test/obj/
+/IntegrationTests/bin/
+/IntegrationTests/obj/
+.idea
