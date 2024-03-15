@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/OkNhzqyKjweuKCWpAdAcs9va+whDkIPYzGOaqX1RUs/c8Hnt5w+j2VQvOQd0FrlBRRb3q7dPtkzyJU3e+iZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgomez\\Projects\\Pildoras\\IntegrationTests\\IntegrationTests\\IntegrationTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgomez\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\fluentmigrator\\5.1.0\\fluentmigrator.5.1.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\fluentmigrator.abstractions\\5.1.0\\fluentmigrator.abstractions.5.1.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\fluentmigrator.extensions.postgres\\5.1.0\\fluentmigrator.extensions.postgres.5.1.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\fluentmigrator.runner.core\\5.1.0\\fluentmigrator.runner.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\fluentmigrator.runner.postgres\\5.1.0\\fluentmigrator.runner.postgres.5.1.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\sgomez\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
